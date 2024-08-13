@@ -35,7 +35,6 @@ export default function Gallery() {
             alt="Pulpo Morado - GOUACHE SOBRE HOT PRESS PAPER - 17.3CM X 16.2CM"
             src="/art/art (1).jpg"
             className="w-full h-full object-cover rounded-lg hover:scale-105 transition-all duration-300"
-            oncontextmenu="return false;"
           />
         </a>
         <a href="/art/art (2).jpg">
@@ -45,7 +44,6 @@ export default function Gallery() {
             alt="OJO DE PULPO - GOUACHE SOBRE HOT PRESS PAPER - 6.6 X 6.5CM"
             src="/art/art (2).jpg"
             className="w-full h-full object-cover rounded-lg hover:scale-105 transition-all duration-300"
-            oncontextmenu="return false;"
           />
         </a>
         <a href="/art/art (3).jpg">
@@ -55,7 +53,6 @@ export default function Gallery() {
             alt="GASOLINERA - ACRÍLICO SOBRE LIENZO - 25.5 X 20.2 CM"
             src="/art/art (3).jpg"
             className="w-full h-full object-cover rounded-lg hover:scale-105 transition-all duration-300"
-            oncontextmenu="return false;"
           />
         </a>
         <a href="/art/art (4).jpg">
@@ -65,7 +62,6 @@ export default function Gallery() {
             alt="Retrato - ACRÍLICO SOBRE GESSO BOARD - 18CM X 13CM"
             src="/art/art (4).jpg"
             className="w-full h-full object-cover rounded-lg hover:scale-105 transition-all duration-300"
-            oncontextmenu="return false;"
           />
         </a>
         <a href="/art/art (7).jpg">
@@ -75,7 +71,6 @@ export default function Gallery() {
             alt="PIEDRA PINTURA "
             src="/art/art (7).jpg"
             className="w-full h-full object-cover rounded-lg hover:scale-105 transition-all duration-300"
-            oncontextmenu="return false;"
           />
         </a>
         <a href="/art/art (6).jpg">
@@ -85,7 +80,6 @@ export default function Gallery() {
             alt="CIUDAD PINTURA"
             src="/art/art (6).jpg"
             className="w-full h-full object-cover rounded-lg hover:scale-105 transition-all duration-300"
-            oncontextmenu="return false;"
           />
         </a>
         <a href="/art/art (5).jpg">
@@ -95,7 +89,6 @@ export default function Gallery() {
             alt="LE PETIT HONGO ESCULTURA"
             src="/art/art (5).jpg"
             className="w-full h-full object-cover rounded-lg hover:scale-105 transition-all duration-300"
-            oncontextmenu="return false;"
           />
         </a>
         <a href="/art/art (8).jpg">
@@ -105,7 +98,6 @@ export default function Gallery() {
             alt="PRUEBA DE COLOR - PINTURA"
             src="/art/art (8).jpg"
             className="w-full h-full object-cover rounded-lg hover:scale-105 transition-all duration-300"
-            oncontextmenu="return false;"
           />
         </a>
         <a href="/art/art (9).jpg">
@@ -115,7 +107,6 @@ export default function Gallery() {
             alt="MEDUSA - PINTURA"
             src="/art/art (9).jpg"
             className="w-full h-full object-cover rounded-lg hover:scale-105 transition-all duration-300"
-            oncontextmenu="return false;"
           />
         </a>
         <a href="/art/art (10).jpg">
@@ -125,7 +116,6 @@ export default function Gallery() {
             alt="RETRATO - PINTURA"
             src="/art/art (10).jpg"
             className="w-full h-full object-cover rounded-lg hover:scale-105 transition-all duration-300"
-            oncontextmenu="return false;"
           />
         </a>
 
@@ -136,7 +126,6 @@ export default function Gallery() {
             alt="PAISAJE - PINTURA"
             src="/art/art (11).jpg"
             className="w-full h-full object-cover rounded-lg hover:scale-105 transition-all duration-300"
-            oncontextmenu="return false;"
           />
         </a>
         <a href="/art/art (2).PNG">
@@ -146,7 +135,6 @@ export default function Gallery() {
             alt="OPAL - DIGITAL ART - 2266PX X 1488PX"
             src="/art/art (2).PNG"
             className="w-full h-full object-cover rounded-lg hover:scale-105 transition-all duration-300"
-            oncontextmenu="return false;"
           />
         </a>
       </LightGallery>
