@@ -13,7 +13,7 @@ const Hero: React.FC = () => {
     <div className="py-56 relative overflow-hidden w-screen h-screen text-white">
       <Image
         alt="Background"
-        src="/2.jpg"
+        src="/images/2.jpg"
         width={3410}
         height={2728}
         className="-z-10 absolute top-0	left-0 w-screen h-screen object-cover"

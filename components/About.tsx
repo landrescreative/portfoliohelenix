@@ -1,14 +1,17 @@
 import React from "react";
+import Image from "next/image";
 
 const About = () => {
   return (
     <div className="  md:w-1/2 py-12 px-10 md:px-4 flex gap-10 flex-col md:flex-row items-center justify-center">
       {/* Photo Section */}
       <div className="w-3/4 h-auto relative">
-        <img
-          src="/ele.jpg"
+        <Image
+          width={2316}
+          height={3088}
+          src="/images/ele.jpg"
           alt="About Me"
-          className="rounded-lg object-cover shadow-2xl"
+          className="rounded-lg object-cover shadow-2xl rotate-90"
         />
       </div>
 
