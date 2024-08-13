@@ -31,7 +31,7 @@ export default function Gallery() {
             width={1000}
             height={1000}
             alt="Pulpo Morado - GOUACHE SOBRE HOT PRESS PAPER - 17.3CM X 16.2CM"
-            src="/art/art (1).jpg"
+            src="/images/art (1).jpg"
             className="w-full h-full object-cover rounded-lg hover:scale-105 transition-all duration-300"
           />
         </a>
