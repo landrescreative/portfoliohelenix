@@ -1,5 +1,6 @@
 "use client";
 import LightGallery from "lightgallery/react";
+import Image from "next/image";
 
 // import styles
 import "lightgallery/css/lightgallery.css";
@@ -28,7 +29,9 @@ export default function Gallery() {
         elementClassNames="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4"
       >
         <a href="/art/art (1).jpg">
-          <img
+          <Image
+            width={1000}
+            height={1000}
             alt="Pulpo Morado - GOUACHE SOBRE HOT PRESS PAPER - 17.3CM X 16.2CM"
             src="/art/art (1).jpg"
             className="w-full h-full object-cover rounded-lg hover:scale-105 transition-all duration-300"
@@ -36,7 +39,9 @@ export default function Gallery() {
           />
         </a>
         <a href="/art/art (2).jpg">
-          <img
+          <Image
+            width={1000}
+            height={1000}
             alt="OJO DE PULPO - GOUACHE SOBRE HOT PRESS PAPER - 6.6 X 6.5CM"
             src="/art/art (2).jpg"
             className="w-full h-full object-cover rounded-lg hover:scale-105 transition-all duration-300"
@@ -44,7 +49,9 @@ export default function Gallery() {
           />
         </a>
         <a href="/art/art (3).jpg">
-          <img
+          <Image
+            width={1000}
+            height={1000}
             alt="GASOLINERA - ACRÍLICO SOBRE LIENZO - 25.5 X 20.2 CM"
             src="/art/art (3).jpg"
             className="w-full h-full object-cover rounded-lg hover:scale-105 transition-all duration-300"
@@ -52,7 +59,9 @@ export default function Gallery() {
           />
         </a>
         <a href="/art/art (4).jpg">
-          <img
+          <Image
+            width={1000}
+            height={1000}
             alt="Retrato - ACRÍLICO SOBRE GESSO BOARD - 18CM X 13CM"
             src="/art/art (4).jpg"
             className="w-full h-full object-cover rounded-lg hover:scale-105 transition-all duration-300"
@@ -60,7 +69,9 @@ export default function Gallery() {
           />
         </a>
         <a href="/art/art (7).jpg">
-          <img
+          <Image
+            width={1000}
+            height={1000}
             alt="PIEDRA PINTURA "
             src="/art/art (7).jpg"
             className="w-full h-full object-cover rounded-lg hover:scale-105 transition-all duration-300"
@@ -68,7 +79,9 @@ export default function Gallery() {
           />
         </a>
         <a href="/art/art (6).jpg">
-          <img
+          <Image
+            width={1000}
+            height={1000}
             alt="CIUDAD PINTURA"
             src="/art/art (6).jpg"
             className="w-full h-full object-cover rounded-lg hover:scale-105 transition-all duration-300"
@@ -76,7 +89,9 @@ export default function Gallery() {
           />
         </a>
         <a href="/art/art (5).jpg">
-          <img
+          <Image
+            width={1000}
+            height={1000}
             alt="LE PETIT HONGO ESCULTURA"
             src="/art/art (5).jpg"
             className="w-full h-full object-cover rounded-lg hover:scale-105 transition-all duration-300"
@@ -84,7 +99,9 @@ export default function Gallery() {
           />
         </a>
         <a href="/art/art (8).jpg">
-          <img
+          <Image
+            width={1000}
+            height={1000}
             alt="PRUEBA DE COLOR - PINTURA"
             src="/art/art (8).jpg"
             className="w-full h-full object-cover rounded-lg hover:scale-105 transition-all duration-300"
@@ -92,7 +109,9 @@ export default function Gallery() {
           />
         </a>
         <a href="/art/art (9).jpg">
-          <img
+          <Image
+            width={1000}
+            height={1000}
             alt="MEDUSA - PINTURA"
             src="/art/art (9).jpg"
             className="w-full h-full object-cover rounded-lg hover:scale-105 transition-all duration-300"
@@ -100,7 +119,9 @@ export default function Gallery() {
           />
         </a>
         <a href="/art/art (10).jpg">
-          <img
+          <Image
+            width={1000}
+            height={1000}
             alt="RETRATO - PINTURA"
             src="/art/art (10).jpg"
             className="w-full h-full object-cover rounded-lg hover:scale-105 transition-all duration-300"
@@ -109,7 +130,9 @@ export default function Gallery() {
         </a>
 
         <a href="/art/art (11).jpg">
-          <img
+          <Image
+            width={1000}
+            height={1000}
             alt="PAISAJE - PINTURA"
             src="/art/art (11).jpg"
             className="w-full h-full object-cover rounded-lg hover:scale-105 transition-all duration-300"
@@ -117,7 +140,9 @@ export default function Gallery() {
           />
         </a>
         <a href="/art/art (2).PNG">
-          <img
+          <Image
+            width={1000}
+            height={1000}
             alt="OPAL - DIGITAL ART - 2266PX X 1488PX"
             src="/art/art (2).PNG"
             className="w-full h-full object-cover rounded-lg hover:scale-105 transition-all duration-300"
