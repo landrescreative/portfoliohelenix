@@ -11,7 +11,7 @@ const About = () => {
           height={3088}
           src="/images/ele.jpg"
           alt="About Me"
-          className="rounded-lg object-cover shadow-2xl rotate-90"
+          className="rounded-lg object-cover shadow-2xl"
         />
       </div>
 
