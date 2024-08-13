@@ -17,7 +17,6 @@ const poppins = Poppins({
 export const metadata: Metadata = {
   title: "Helenix Art Portfolio",
   description: "A portfolio of Helenix's art",
-  siteUrl: "https://helenix.art",
   image: "/images/og.png",
   type: "website",
   keywords: ["art", "portfolio", "helenix"],
