@@ -14,8 +14,8 @@ const Hero: React.FC = () => {
       <Image
         alt="Background"
         src="/2.jpg"
-        width={1000}
-        height={1000}
+        width={3410}
+        height={2728}
         className="-z-10 absolute top-0	left-0 w-screen h-screen object-cover"
       />
       <div className="absolute top-0 left-0 w-full h-full opacity-100 -z-10">
