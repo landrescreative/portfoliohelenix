@@ -12,8 +12,6 @@ import lgThumbnail from "lightgallery/plugins/thumbnail";
 import lgZoom from "lightgallery/plugins/zoom";
 
 export default function Gallery() {
-  document.addEventListener("contextmenu", (event) => event.preventDefault());
-
   const onInit = () => {
     console.log("lightGallery has been initialized");
   };
