@@ -10,7 +10,7 @@ const Contact = () => {
         electrónico.{" "}
       </h1>
       <h2 className="bg-gray-900 text-white px-10 py-5 rounded-full text-XL hover:scale-125 transition-all duration-300 ">
-        eleceba@gmail.com
+        helenix.art.00@gmail.com
       </h2>
     </div>
   );
